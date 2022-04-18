@@ -31,6 +31,6 @@ A simple web-application that supports authentication, registration and other CR
 - Install MySQL;
 - Configure Apache Tomcat version (**IMPORTANT**): 9.0.xx;
 - Configure [/src/main/resources/db.properties](/src/main/resources/db.properties) with your DB_URL, USERNAME, PASSWORD;
-- Run the orogram;
-- You already have two registered users: ``login: user@i.ua, pass: user1234, role: USER`` and ``login: admin@i.ua, pass: admin1234, role: ADMIN``;
+- Run the program;
+- You already have two registered users: ``login: user@i.ua, password: user1234, role: USER`` and ``login: admin@i.ua, password: admin1234, role: ADMIN``;
 - Done! Now just try to use it.:tada:
